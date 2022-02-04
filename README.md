@@ -1,6 +1,6 @@
-Star The Repo Quick Or you wont be a 1337 coder
+Star The Repo Quick Or you wont be a 777 coder
 
-[+] git clone 
+[+] git clone https://github.com/NightMare-0777/TempMail-Python
 
 [+] cd tempmail-python
 
